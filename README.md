@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Slade Bennett</h1>
-<h3 align="center">A dedicated full stack developer from Texas</h3>
+<h3 align="center">A dedicated student full stack developer from Texas</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/348324/screenshots/6536376/25-05-barte-superellipse-dribble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sladebennett&label=Profile%20views&color=0e75b6&style=flat" alt="sladebennett" /> </p>
