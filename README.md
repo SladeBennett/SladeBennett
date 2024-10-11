@@ -1,7 +1,7 @@
 ![fluffkevlar-starfield-gif](https://github.com/SladeBennett/SladeBennett/assets/150281260/aa9202df-696d-4989-b794-5dc1a7416836)
 <h1 align="center">Hi 👋, I'm Slade Bennett</h1>
 
-<h3 align="center">A dedicated student full stack developer from Texas</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/4d/3c/c1/4d3cc1d50ab5eef340d01b54ba28cd5b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sladebennett&label=Profile%20views&color=0e75b6&style=flat" alt="sladebennett" /> </p>
