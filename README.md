@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sladebennett&label=Profile%20views&color=0e75b6&style=flat" alt="sladebennett" /> </p>
 
-- 🔭 I’m currently working on **Bloomtech Sprint 8**
+- 🔭 I’m currently working on **Bloomtech Applied Computer Sciences**
 
 - 🌱 I’m currently learning **React**
 
