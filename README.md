@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Bloomtech Applied Computer Sciences**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Recursion**
 
 - 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **slade8colt@gmail.com**
 
-- ⚡ Fun fact **I am a leather smith**
+- ⚡ Fun fact **I'm a leather artisan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
